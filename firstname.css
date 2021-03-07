@@ -1,0 +1,52 @@
+
+*{
+	direction: rtl;
+	font-family: B yekan;
+}
+body{
+	
+	background: linear-gradient(to right ,Aqua,DodgerBlue );
+}
+
+.card{
+	background-color: Azure;
+	margin: 5% 25%;
+	border: 20px ridge Orchid;
+	width: 1500px;
+	height: 1250px;
+	border-radius: 25px;
+	text-align: center;
+	font-family: B zar;
+	font-size: 25px;
+	border-bottom-left-radius: 130px;
+	border-bottom-right-radius: 130px;
+	
+}
+.pic{
+	border-radius: 1000px;
+	width: 260px;
+	height: 250px;
+	border: 8px solid 	rgb(255,255,0);
+}
+.sublit{
+	background-color: forestgreen;
+	font-family: B zar;
+	font-size: 33px;
+	width: 270px;
+	height: 60px;
+	border: 7px  solid blue;
+	border-radius: 10px;
+	text-align: center;
+	
+}
+.sublit:hover{
+	background-color: firebrick;
+	font-family: B zar;
+	font-size: 33px;
+	width: 270px;
+	height: 60px;
+	border: 7px  solid blue;
+	border-radius: 10px;
+	text-align: center;
+}
+

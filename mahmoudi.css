@@ -1,78 +1,86 @@
 *{
-font-family: B zar;
-font-size: 20px;
+	font-family: B zar;
+	font-size: 20px;
 }
 body{
-direction: rtl;
-background-image: url("https://codelab.pvlearn.com/images/bgdesert.jpg");
+	direction: rtl;
+	background-image: url("ooo.jfif");
+	margin-right: 1px;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: inherit;
+	background-position: center;
 }
 #form{
-background-color: aquamarine;
-height: 440px;
-width: 500px;
-text-align: center;
-border: 10px solid DarkMagenta;
-border-radius:15px;
-margin: 5% 30%;
+	background-color: deepskyblue;
+	height: 440px;
+	width: 500px;
+	text-align: center;
+	border: 10px solid 	rgb(255,0,255);
+	border-radius:15px;
+	margin: 8% 31%;
+	border-bottom-right-radius: 180px;
+	border-bottom-left-radius: 180px;
+	
 }
 #text{
-width: 250px;
-height: 25px;
-text-align: center;
-font-family: B yekan;
-font-size: 17px;
-border: 1px solid blue;
-border-radius: 10px;
+	width: 250px
+	height: 25px;
+	text-align: center;
+	font-family: B yekan;
+	font-size: 17px;
+	border: 3px solid Indigo;
+	border-radius: 10px;
 }
 #text:focus{
-width: 200px;
-height: 25px;
-text-align: center;
-font-family: B yekan;
-font-size: 12px;
-border: 1px solid red;
-border-radius: 10px;
+	width: 200px;
+	height: 25px;
+	text-align: center;
+	font-family: B yekan;
+	font-size: 12px;
+	border: 1px solid red;
+	border-radius: 10px;
 }
 #pass{
-width: 250px;
-height: 25px;
-text-align: center;
-font-family: B yekan;
-font-size: 17px;
-border: 1px solid blue;
-border-radius: 10px;
+	width: 250px;
+	height: 25px;
+	text-align: center;
+	font-family: B yekan;
+	font-size: 17px;
+	border: 3px solid Indigo;
+	border-radius: 10px;
 }
 #pass:focus{
-width: 200px;
-height: 25px;
-text-align: center;
-font-family: B yekan;
-font-size: 12px;
-border: 1px solid red;
-border-radius: 10px;
+	width: 200px;
+	height: 25px;
+	text-align: center;
+	font-family: B yekan;
+	font-size: 12px;
+	border: 1px solid red;
+	border-radius: 10px;
 }
 #reg{
-font-family: B zar;
-font-size: 12;
+	font-family: B zar;
+	font-size: 12;
 }
 #reg:hover{
-color: red;
+	color: red;
 }
 #submit{
-background-color: crimson;
-font-family: B zar;
-font-size: 20px;
-width: 170px;
-height: 35px;
-border: 1px solid dashed;
-border-radius: 10px;
+	background-color: rgb(255,105,180);
+	font-family: B zar;
+	font-size: 20px;
+	width: 170px;
+	height: 35px;
+	border: 1px solid dashed;
+	border-radius: 10px;
 }
 #submit:hover{
-background-color: green;
-font-family: B zar;
-font-size: 20px;
-width: 170px;
-height: 35px;
-border: 1px solid hsla(0,0%,0%,1.00);
-border-radius: 10px;
+	background-color: Orange;
+	font-family: B zar;
+	font-size: 20px;
+	width: 170px;
+	height: 35px;
+	border: 1px solid hsla(0,0%,0%,1.00);
+	border-radius: 10px;
 }
